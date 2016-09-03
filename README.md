@@ -1,7 +1,7 @@
 # Faker_xifu
 
-# Ussage
-```pyhton
+# Usage
+``` pyhton
 from faker import Faker
 f = Faker()
 f.login(username='username', password='password')
